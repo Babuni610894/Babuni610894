@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ⭐⭐Web & Mobile Based Apllication⭐⭐
 - 🌱 I’m currently learning ⭐⭐ Python⭐⭐
 - 👯 I’m looking to collaborate on ⭐⭐API & OS project⭐⭐
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about ⭐⭐Techonoly and Personal Devlopment⭐⭐
+- 📫 How to reach me ⭐⭐babuni610894@gmail.com⭐⭐
+- 😄 Pronouns ⭐⭐He/Him⭐⭐
+- ⚡ Fun fact ⭐⭐I run you a Non profit Organization⭐⭐
 
 
 ## 🌐 Socials:
